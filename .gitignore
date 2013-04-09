@@ -1,0 +1,14 @@
+*.swp
+*.o
+*.a
+*.so
+*.bundle
+*.dll
+config.h
+config.log
+config.status
+src/.deps
+*Makefile
+stamp-h1
+autom4te.cache/*
+src/fairport
